@@ -1,0 +1,2 @@
+var token = '7767193069:AAEfbsVqJEMgZZ3qLD0Mxy0Ov6gAY86AXbQ',
+  grup = '5735279405';
